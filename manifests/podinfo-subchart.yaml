@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    path: charts/grafana
+    path: charts/podinfo
     repoURL: https://github.com/hackeboeuf/podinfo.git
     targetRevision: HEAD
   destination:
