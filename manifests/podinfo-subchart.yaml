@@ -13,7 +13,7 @@ spec:
     repoURL: https://github.com/hackeboeuf/podinfo.git
     targetRevision: HEAD
   destination:
-    namespace: monitoring
+    namespace: default
     server: https://kubernetes.default.svc
   syncPolicy:
     automated:
